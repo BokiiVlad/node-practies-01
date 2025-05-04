@@ -14,4 +14,4 @@ const generateProducts = async (number) => {
   writeFile(PATH_DB, JSON.stringify(parseDb, null, 2), 'utf-8');
 };
 
-generateProducts(1);
+generateProducts(5);
