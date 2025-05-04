@@ -1,0 +1,27 @@
+{
+  "name": "practies-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BokiiVlad/node-practies-01.git"
+  },
+  "keywords": [],
+  "author": "Vladik Bokii <bokiyvladik10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BokiiVlad/node-practies-01/issues"
+  },
+  "homepage": "https://github.com/BokiiVlad/node-practies-01#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "@faker-js/faker": "^9.7.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.0.0"
+  }
+}
