@@ -2,31 +2,26 @@
   {
     "name": "Incredible Ceramic Cheese",
     "price": "782.60",
-    "category": "Clothing",
-    "description": "Handmade Car designed with Rubber for svelte performance"
+    "category": "Clothing"
   },
   {
     "name": "Generic Metal Keyboard",
     "price": "112.99",
-    "category": "Grocery",
-    "description": "The magenta Chair combines Mauritius aesthetics with Strontium-based durability"
+    "category": "Grocery"
   },
   {
     "name": "Small Aluminum Soap",
     "price": "625.69",
-    "category": "Books",
-    "description": "Professional-grade Bacon perfect for dismal training and recreational use"
+    "category": "Books"
   },
   {
     "name": "Bespoke Wooden Table",
     "price": "200.05",
-    "category": "Toys",
-    "description": "New indigo Chair with ergonomic design for white comfort"
+    "category": "Toys"
   },
   {
     "name": "Tasty Granite Sausages",
     "price": "736.49",
-    "category": "Grocery",
-    "description": "Discover the normal new Ball with an exciting mix of Marble ingredients"
+    "category": "Grocery"
   }
 ]
